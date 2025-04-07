@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project takes button press for input to advance the count of the flip flop counter as a binary representation over 3 LEDs. 
 
 ## How to test
 
-Explain how to use your project
+Test the project by pressing the button many times and seeing if the 3 LED outputs count up by 1 in binary from 0 to 7.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+A push button and 3 LEDs.
